@@ -1,71 +1,42 @@
-# Getting Started with Create React App
+ Visualization is an efficient way of learning any concept faster than 
+conventional methods. Modern technology allows creating e-Learning 
+tools that also helps in improving computer science education very 
+much. The goal of this project is to create a web based e-Learning tool, 
+‘Pathfinding Visualizer’, which can be used to visualize shortest path 
+algorithms. The conceptual application of the project is illustrated by 
+implementation of algorithms like Dijkstra’s , A*,BFS and DFS. This 
+project aims to complete all these tasks with some knowledge of HTML, 
+CSS, JavaScript and React Framework. The end product is a web 
+application so that any user can easily see and learn the working of the 
+algorithms. User-friendliness of the project provides user with easy 
+instructions on how to operate it. The initial results of using the 
+application show promises of the benefits of this e-Learning tool 
+towards students getting a good understanding of shortest paths 
+algorithms.
+➢ A visual pathfinding program that allows the user to create their own 
+obstacles or mazes and then run different pathfinding algorithm on it.
+➢ Pathfinding algorithm used to find optimal path between source and 
+destination node.
+➢ Pathfinding is a common programming challenge with a wide range of 
+uses. We know it mainly from navigation and games. However, once you 
+know the core algorithms, you'll find that they apply to more abstract 
+optimization and sequencing problems.
+➢ In this project we will be building a pathfinding algorithm visualizer.
+➢ It will support B.F.S. , D.F.S. , A* , Dijkstra’s Algorithm.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# pathfindervisualizer
+The Systems program emphasizes the use of computers as sophisticated 
+problem solving tools.
+Path finding algorithms build on top of graph search algorithms and 
+explore routes between nodes, starting at one node and traversing 
+through relationships until the destination has been reached. These 
+algorithms find the cheapest path in terms of the number of hops or 
+weight. Weights can be anything measured, such as time, distance, 
+capacity, or cost.
+The purpose of the system is to create a convenient and easy-to-use 
+system for users. We hope to provide a comfortable User experience 
+along with the best resources. 
+The software is web-based application and can be hosted on the 
+internet. 
+ It also provides a clean and user friendly Interface to the users.
